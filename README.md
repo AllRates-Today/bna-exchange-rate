@@ -70,10 +70,10 @@ const pair = await getRate('USD', 'AOA', { apiKey: 'art_live_...' });
 {
   bank: 'bna',
   name: 'National Bank of Angola',
-  rate_date: '2026-08-21',   // National Bank of Angola's own publication date
+  rate_date: '2026-09-09',   // National Bank of Angola's own publication date
   source: 'USD',
   target: 'AOA',
-  rate: 912.799,
+  rate: 912.843,
   rate_type: 'reference',
   derived: false,
   method: 'published',
@@ -98,11 +98,11 @@ console.log(table.rate_date, table.rates.length);
 {
   bank: 'bna',
   name: 'National Bank of Angola',
-  rate_date: '2026-08-21',
+  rate_date: '2026-09-09',
   rates: [
-    { "base": "USD", "quote": "AOA", "type": "reference", "value": 912.799 },
-    { "base": "USD", "quote": "AOA", "type": "sell", "value": 912.799 },
-    { "base": "USD", "quote": "AOA", "type": "buy", "value": 912.799 },
+    { "base": "USD", "quote": "AOA", "type": "reference", "value": 912.843 },
+    { "base": "USD", "quote": "AOA", "type": "sell", "value": 912.843 },
+    { "base": "USD", "quote": "AOA", "type": "buy", "value": 912.843 },
     // … the rest of the published table (70 currencies vs AOA)
   ],
   disclaimer: '…'
@@ -142,7 +142,7 @@ Paid plans. One resolved rate per publication date — ready for charting, reval
 import { getHistory } from 'bna-exchange-rate';
 
 const series = await getHistory(
-  { source: 'USD', target: 'AOA', from: '2026-01-01', to: '2026-08-21' },
+  { source: 'USD', target: 'AOA', from: '2026-01-01', to: '2026-09-09' },
   { apiKey: 'art_live_...' }
 );
 ```
@@ -155,11 +155,11 @@ const series = await getHistory(
   source: 'USD',
   target: 'AOA',
   from: '2026-01-01',
-  to: '2026-08-21',
+  to: '2026-09-09',
   count: 152,
   rates: [
     // one entry per publication date
-    { date: '2026-08-21', rate: 912.799, rate_type: 'reference', derived: false, method: 'published' },
+    { date: '2026-09-09', rate: 912.843, rate_type: 'reference', derived: false, method: 'published' },
     // …
   ],
   disclaimer: '…'
@@ -237,6 +237,14 @@ getRate('USD', 'AOA', { apiKey: 'art_live_...' }).then((pair) => console.log(pai
 | `getLatestRates({ apiKey })` | Free | The central bank's full latest published table |
 | `getRatesForDate(date, { apiKey, source?, target? })` | Paid | The official table (or one pair) for a YYYY-MM-DD date |
 | `getHistory({ symbol \| source+target, from?, to? }, { apiKey })` | Paid | Daily series since 1999 |
+
+## 📥 Bulk data (no key)
+
+Need the whole archive rather than an API call? The same published tables are mirrored daily as open data:
+
+- Hugging Face: [AllRates/central-bank-exchange-rates](https://huggingface.co/datasets/AllRates/central-bank-exchange-rates) — one CSV per institution (`rates/bna.csv`)
+- Kaggle: [allratestoday/central-bank-exchange-rates](https://www.kaggle.com/datasets/allratestoday/central-bank-exchange-rates)
+- CDN JSON: `https://cdn.jsdelivr.net/gh/AllRates-Today/central-bank-exchange-rates@main/data/bna/latest.json`
 
 ## 🔗 Links
 
