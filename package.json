@@ -1,6 +1,6 @@
 {
   "name": "bna-exchange-rate",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Official National Bank of Angola (Angola) daily exchange rates — 70 currencies vs AOA, history since 1999. Zero-dependency Node.js/TypeScript client.",
   "keywords": [
     "bna",
