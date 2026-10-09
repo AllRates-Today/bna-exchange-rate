@@ -4,6 +4,8 @@
 [![license](https://img.shields.io/npm/l/bna-exchange-rate.svg)](https://github.com/AllRates-Today/bna-exchange-rate/blob/main/LICENSE)
 [![zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](https://www.npmjs.com/package/bna-exchange-rate)
 [![TypeScript](https://img.shields.io/badge/TypeScript-types%20included-3178C6.svg)](https://www.typescriptlang.org/)
+[![USD/AOA today](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallratestoday.com%2Fapi%2Fopen%2Fcentral-bank%2Fbna%3Fsource%3DUSD%26target%3DAOA&query=%24.rate&label=USD%2FAOA%20published%20by%20National%20Bank%20of%20Angola&color=0A7E8C&cacheSeconds=3600)](https://allratestoday.com/central-bank-rates-api/bna/)
+[![rate date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallratestoday.com%2Fapi%2Fopen%2Fcentral-bank%2Fbna%3Fsource%3DUSD%26target%3DAOA&query=%24.rate_date&label=rate%20date&color=555&cacheSeconds=3600)](https://allratestoday.com/central-bank-rates-api/bna/)
 
 **Official National Bank of Angola (Angola) daily exchange rates for Node.js and TypeScript. The published central bank rates behind tax filings, customs valuations, audits, and compliant invoicing — not market estimates, but the numbers National Bank of Angola itself prints, every business day.**
 
@@ -32,6 +34,79 @@ console.log(r.rate_date, r.rates.length); // the central bank's latest published
 ```
 
 The open endpoint serves the *latest* table only and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables, history, and CSV/XML/Excel output.
+
+## 📈 Latest published table
+
+Today's full National Bank of Angola table, straight from the central bank's latest publication. On GitHub it is refreshed by [a daily Action](.github/workflows/daily-table.yml) that reads the keyless endpoint above and commits only when the central bank publishes a new table; the copy on npm is as of the package's publish date.
+
+<!-- daily-table:start -->
+Published **2026-10-08** by National Bank of Angola — 210 rates, first 60 shown. Updated 2026-10-08.
+
+| Base | Quote | Type | Rate |
+| --- | --- | --- | ---: |
+| AED | AOA | buy | 248.57742 |
+| AED | AOA | reference | 248.57742 |
+| AED | AOA | sell | 248.57742 |
+| ALL | AOA | buy | 11.20658 |
+| ALL | AOA | reference | 11.20658 |
+| ALL | AOA | sell | 11.20658 |
+| ARS | AOA | buy | 0.6017 |
+| ARS | AOA | reference | 0.6017 |
+| ARS | AOA | sell | 0.6017 |
+| AUD | AOA | buy | 634.11585 |
+| AUD | AOA | reference | 634.11585 |
+| AUD | AOA | sell | 634.11585 |
+| BGN | AOA | buy | 522.43076 |
+| BGN | AOA | reference | 522.43076 |
+| BGN | AOA | sell | 522.43076 |
+| BMD | AOA | buy | 913 |
+| BMD | AOA | reference | 913 |
+| BMD | AOA | sell | 913 |
+| BOB | AOA | buy | 77.04641 |
+| BOB | AOA | reference | 77.04641 |
+| BOB | AOA | sell | 77.04641 |
+| BRL | AOA | buy | 181.94137 |
+| BRL | AOA | reference | 181.94137 |
+| BRL | AOA | sell | 181.94137 |
+| BSD | AOA | buy | 913 |
+| BSD | AOA | reference | 913 |
+| BSD | AOA | sell | 913 |
+| BWP | AOA | buy | 67.74454 |
+| BWP | AOA | reference | 67.74454 |
+| BWP | AOA | sell | 67.74454 |
+| CAD | AOA | buy | 640.4321 |
+| CAD | AOA | reference | 640.4321 |
+| CAD | AOA | sell | 640.4321 |
+| CDF | AOA | buy | 0.39546 |
+| CDF | AOA | reference | 0.39546 |
+| CDF | AOA | sell | 0.39546 |
+| CHF | AOA | buy | 1095.90685 |
+| CHF | AOA | reference | 1095.90685 |
+| CHF | AOA | sell | 1095.90685 |
+| CNY | AOA | buy | 136.24629 |
+| CNY | AOA | reference | 136.24629 |
+| CNY | AOA | sell | 136.24629 |
+| CRC | AOA | buy | 2.01092 |
+| CRC | AOA | reference | 2.01092 |
+| CRC | AOA | sell | 2.01092 |
+| CUP | AOA | buy | 38.04167 |
+| CUP | AOA | reference | 38.04167 |
+| CUP | AOA | sell | 38.04167 |
+| CVE | AOA | buy | 9.31166 |
+| CVE | AOA | reference | 9.31166 |
+| CVE | AOA | sell | 9.31166 |
+| CZK | AOA | buy | 41.87228 |
+| CZK | AOA | reference | 41.87228 |
+| CZK | AOA | sell | 41.87228 |
+| DKK | AOA | buy | 136.71349 |
+| DKK | AOA | reference | 136.71349 |
+| DKK | AOA | sell | 136.71349 |
+| EEK | AOA | buy | 65.30291 |
+| EEK | AOA | reference | 65.30291 |
+| EEK | AOA | sell | 65.30291 |
+
+[Full table on the National Bank of Angola rates page](https://allratestoday.com/central-bank-rates-api/bna/) · Source: [Official rates published by BNA, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bna/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
+<!-- daily-table:end -->
 
 ## 🔑 Get your API key
 
