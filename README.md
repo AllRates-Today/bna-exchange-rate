@@ -42,70 +42,70 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-13** by National Bank of Angola — 209 rates, first 60 shown. Updated 2026-10-13.
+Published **2026-10-14** by National Bank of Angola — 210 rates, first 60 shown. Updated 2026-10-14.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | AOA | buy | 248.57742 |
-| AED | AOA | reference | 248.57742 |
-| AED | AOA | sell | 248.57742 |
-| ALL | AOA | buy | 11.22449 |
-| ALL | AOA | reference | 11.22449 |
-| ALL | AOA | sell | 11.22449 |
-| ARS | AOA | buy | 0.60207 |
-| ARS | AOA | reference | 0.60207 |
-| ARS | AOA | sell | 0.60207 |
-| AUD | AOA | buy | 637.21385 |
-| AUD | AOA | reference | 637.21385 |
-| AUD | AOA | sell | 637.21385 |
-| BGN | AOA | buy | 522.25146 |
-| BGN | AOA | reference | 522.25146 |
-| BGN | AOA | sell | 522.25146 |
+| AED | AOA | buy | 248.57065 |
+| AED | AOA | reference | 248.57065 |
+| AED | AOA | sell | 248.57065 |
+| ALL | AOA | buy | 11.248 |
+| ALL | AOA | reference | 11.248 |
+| ALL | AOA | sell | 11.248 |
+| ARS | AOA | buy | 0.60351 |
+| ARS | AOA | reference | 0.60351 |
+| ARS | AOA | sell | 0.60351 |
+| AUD | AOA | buy | 640.11779 |
+| AUD | AOA | reference | 640.11779 |
+| AUD | AOA | sell | 640.11779 |
+| BGN | AOA | buy | 522.67003 |
+| BGN | AOA | reference | 522.67003 |
+| BGN | AOA | sell | 522.67003 |
 | BMD | AOA | buy | 913 |
 | BMD | AOA | reference | 913 |
 | BMD | AOA | sell | 913 |
 | BOB | AOA | buy | 78.03419 |
 | BOB | AOA | reference | 78.03419 |
 | BOB | AOA | sell | 78.03419 |
-| BRL | AOA | buy | 182.07925 |
-| BRL | AOA | reference | 182.07925 |
-| BRL | AOA | sell | 182.07925 |
+| BRL | AOA | buy | 181.64094 |
+| BRL | AOA | reference | 181.64094 |
+| BRL | AOA | sell | 181.64094 |
 | BSD | AOA | buy | 913 |
 | BSD | AOA | reference | 913 |
 | BSD | AOA | sell | 913 |
 | BWP | AOA | buy | 67.01409 |
 | BWP | AOA | reference | 67.01409 |
 | BWP | AOA | sell | 67.01409 |
-| CAD | AOA | buy | 641.19671 |
-| CAD | AOA | reference | 641.19671 |
-| CAD | AOA | sell | 641.19671 |
-| CDF | AOA | buy | 0.39573 |
-| CDF | AOA | reference | 0.39573 |
-| CDF | AOA | sell | 0.39573 |
-| CHF | AOA | buy | 1097.22389 |
-| CHF | AOA | reference | 1097.22389 |
-| CHF | AOA | sell | 1097.22389 |
-| CNY | AOA | buy | 136.43972 |
-| CNY | AOA | reference | 136.43972 |
-| CNY | AOA | sell | 136.43972 |
-| CRC | AOA | buy | 2.02745 |
-| CRC | AOA | reference | 2.02745 |
-| CRC | AOA | sell | 2.02745 |
+| CAD | AOA | buy | 642.41486 |
+| CAD | AOA | reference | 642.41486 |
+| CAD | AOA | sell | 642.41486 |
+| CDF | AOA | buy | 0.39569 |
+| CDF | AOA | reference | 0.39569 |
+| CDF | AOA | sell | 0.39569 |
+| CHF | AOA | buy | 1095.64383 |
+| CHF | AOA | reference | 1095.64383 |
+| CHF | AOA | sell | 1095.64383 |
+| CNY | AOA | buy | 136.42544 |
+| CNY | AOA | reference | 136.42544 |
+| CNY | AOA | sell | 136.42544 |
+| CRC | AOA | buy | 2.03182 |
+| CRC | AOA | reference | 2.03182 |
+| CRC | AOA | sell | 2.03182 |
 | CUP | AOA | buy | 38.04167 |
 | CUP | AOA | reference | 38.04167 |
 | CUP | AOA | sell | 38.04167 |
-| CVE | AOA | buy | 9.31356 |
-| CVE | AOA | reference | 9.31356 |
-| CVE | AOA | sell | 9.31356 |
-| CZK | AOA | buy | 41.91842 |
-| CZK | AOA | reference | 41.91842 |
-| CZK | AOA | sell | 41.91842 |
-| DKK | AOA | buy | 136.64596 |
-| DKK | AOA | reference | 136.64596 |
-| DKK | AOA | sell | 136.64596 |
-| EEK | AOA | buy | 65.28283 |
-| EEK | AOA | reference | 65.28283 |
-| EEK | AOA | sell | 65.28283 |
+| CVE | AOA | buy | 9.3193 |
+| CVE | AOA | reference | 9.3193 |
+| CVE | AOA | sell | 9.3193 |
+| CZK | AOA | buy | 41.97296 |
+| CZK | AOA | reference | 41.97296 |
+| CZK | AOA | sell | 41.97296 |
+| DKK | AOA | buy | 136.7483 |
+| DKK | AOA | reference | 136.7483 |
+| DKK | AOA | sell | 136.7483 |
+| EEK | AOA | buy | 65.33235 |
+| EEK | AOA | reference | 65.33235 |
+| EEK | AOA | sell | 65.33235 |
 
 [Full table on the National Bank of Angola rates page](https://allratestoday.com/central-bank-rates-api/bna/) · Source: [Official rates published by BNA, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bna/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
@@ -162,7 +162,7 @@ const pair = await getRate('USD', 'AOA', { apiKey: 'art_live_...' });
 {
   bank: 'bna',
   name: 'National Bank of Angola',
-  rate_date: '2026-10-12',   // National Bank of Angola's own publication date
+  rate_date: '2026-10-13',   // National Bank of Angola's own publication date
   source: 'USD',
   target: 'AOA',
   rate: 913,
@@ -190,7 +190,7 @@ console.log(table.rate_date, table.rates.length);
 {
   bank: 'bna',
   name: 'National Bank of Angola',
-  rate_date: '2026-10-12',
+  rate_date: '2026-10-13',
   rates: [
     { "base": "USD", "quote": "AOA", "type": "reference", "value": 913 },
     { "base": "USD", "quote": "AOA", "type": "sell", "value": 913 },
@@ -234,7 +234,7 @@ Paid plans. One resolved rate per publication date — ready for charting, reval
 import { getHistory } from 'bna-exchange-rate';
 
 const series = await getHistory(
-  { source: 'USD', target: 'AOA', from: '2026-01-01', to: '2026-10-12' },
+  { source: 'USD', target: 'AOA', from: '2026-01-01', to: '2026-10-13' },
   { apiKey: 'art_live_...' }
 );
 ```
@@ -247,11 +247,11 @@ const series = await getHistory(
   source: 'USD',
   target: 'AOA',
   from: '2026-01-01',
-  to: '2026-10-12',
+  to: '2026-10-13',
   count: 152,
   rates: [
     // one entry per publication date
-    { date: '2026-10-12', rate: 913, rate_type: 'reference', derived: false, method: 'published' },
+    { date: '2026-10-13', rate: 913, rate_type: 'reference', derived: false, method: 'published' },
     // …
   ],
   disclaimer: '…'
@@ -371,9 +371,9 @@ getRate('USD', 'AOA', { apiKey: 'art_live_...' }).then((pair) => console.log(pai
 
 Need the whole archive rather than an API call? The same published tables are mirrored daily as open data:
 
-- Hugging Face: [AllRates/central-bank-exchange-rates](https://huggingface.co/datasets/AllRates/central-bank-exchange-rates) — one CSV per institution (`rates/bna.csv`)
+- Hugging Face: [AllRatesToday/central-bank-exchange-rates](https://huggingface.co/datasets/AllRatesToday/central-bank-exchange-rates) — one CSV per institution (`rates/bna.csv`)
 - Kaggle: [allratestoday/central-bank-exchange-rates](https://www.kaggle.com/datasets/allratestoday/central-bank-exchange-rates)
-- CDN JSON: `https://cdn.jsdelivr.net/gh/AllRates-Today/central-bank-exchange-rates@main/data/bna/latest.json`
+- Raw JSON on GitHub: `https://raw.githubusercontent.com/AllRates-Today/central-bank-exchange-rates/main/data/bna/latest.json`
 
 ## 🔗 Links
 
