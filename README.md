@@ -42,70 +42,70 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-15** by National Bank of Angola — 210 rates, first 60 shown. Updated 2026-10-15.
+Published **2026-10-16** by National Bank of Angola — 210 rates, first 60 shown. Updated 2026-10-16.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | AOA | buy | 248.57742 |
-| AED | AOA | reference | 248.57742 |
-| AED | AOA | sell | 248.57742 |
-| ALL | AOA | buy | 11.27857 |
-| ALL | AOA | reference | 11.27857 |
-| ALL | AOA | sell | 11.27857 |
-| ARS | AOA | buy | 0.60344 |
-| ARS | AOA | reference | 0.60344 |
-| ARS | AOA | sell | 0.60344 |
-| AUD | AOA | buy | 631.00422 |
-| AUD | AOA | reference | 631.00422 |
-| AUD | AOA | sell | 631.00422 |
-| BGN | AOA | buy | 523.14921 |
-| BGN | AOA | reference | 523.14921 |
-| BGN | AOA | sell | 523.14921 |
+| AED | AOA | buy | 248.57065 |
+| AED | AOA | reference | 248.57065 |
+| AED | AOA | sell | 248.57065 |
+| ALL | AOA | buy | 11.31351 |
+| ALL | AOA | reference | 11.31351 |
+| ALL | AOA | sell | 11.31351 |
+| ARS | AOA | buy | 0.60332 |
+| ARS | AOA | reference | 0.60332 |
+| ARS | AOA | sell | 0.60332 |
+| AUD | AOA | buy | 635.52833 |
+| AUD | AOA | reference | 635.52833 |
+| AUD | AOA | sell | 635.52833 |
+| BGN | AOA | buy | 525.25601 |
+| BGN | AOA | reference | 525.25601 |
+| BGN | AOA | sell | 525.25601 |
 | BMD | AOA | buy | 913 |
 | BMD | AOA | reference | 913 |
 | BMD | AOA | sell | 913 |
 | BOB | AOA | buy | 78.16781 |
 | BOB | AOA | reference | 78.16781 |
 | BOB | AOA | sell | 78.16781 |
-| BRL | AOA | buy | 180.47045 |
-| BRL | AOA | reference | 180.47045 |
-| BRL | AOA | sell | 180.47045 |
+| BRL | AOA | buy | 180.01853 |
+| BRL | AOA | reference | 180.01853 |
+| BRL | AOA | sell | 180.01853 |
 | BSD | AOA | buy | 913 |
 | BSD | AOA | reference | 913 |
 | BSD | AOA | sell | 913 |
-| BWP | AOA | buy | 67.4707 |
-| BWP | AOA | reference | 67.4707 |
-| BWP | AOA | sell | 67.4707 |
-| CAD | AOA | buy | 642.64095 |
-| CAD | AOA | reference | 642.64095 |
-| CAD | AOA | sell | 642.64095 |
-| CDF | AOA | buy | 0.39561 |
-| CDF | AOA | reference | 0.39561 |
-| CDF | AOA | sell | 0.39561 |
-| CHF | AOA | buy | 1099.735 |
-| CHF | AOA | reference | 1099.735 |
-| CHF | AOA | sell | 1099.735 |
-| CNY | AOA | buy | 136.45195 |
-| CNY | AOA | reference | 136.45195 |
-| CNY | AOA | sell | 136.45195 |
-| CRC | AOA | buy | 2.03092 |
-| CRC | AOA | reference | 2.03092 |
-| CRC | AOA | sell | 2.03092 |
+| BWP | AOA | buy | 67.01409 |
+| BWP | AOA | reference | 67.01409 |
+| BWP | AOA | sell | 67.01409 |
+| CAD | AOA | buy | 644.81955 |
+| CAD | AOA | reference | 644.81955 |
+| CAD | AOA | sell | 644.81955 |
+| CDF | AOA | buy | 0.39565 |
+| CDF | AOA | reference | 0.39565 |
+| CDF | AOA | sell | 0.39565 |
+| CHF | AOA | buy | 1108.54784 |
+| CHF | AOA | reference | 1108.54784 |
+| CHF | AOA | sell | 1108.54784 |
+| CNY | AOA | buy | 136.72372 |
+| CNY | AOA | reference | 136.72372 |
+| CNY | AOA | sell | 136.72372 |
+| CRC | AOA | buy | 2.032 |
+| CRC | AOA | reference | 2.032 |
+| CRC | AOA | sell | 2.032 |
 | CUP | AOA | buy | 38.04167 |
 | CUP | AOA | reference | 38.04167 |
 | CUP | AOA | sell | 38.04167 |
-| CVE | AOA | buy | 9.3172 |
-| CVE | AOA | reference | 9.3172 |
-| CVE | AOA | sell | 9.3172 |
-| CZK | AOA | buy | 42.01758 |
-| CZK | AOA | reference | 42.01758 |
-| CZK | AOA | sell | 42.01758 |
-| DKK | AOA | buy | 136.87951 |
-| DKK | AOA | reference | 136.87951 |
-| DKK | AOA | sell | 136.87951 |
-| EEK | AOA | buy | 65.39178 |
-| EEK | AOA | reference | 65.39178 |
-| EEK | AOA | sell | 65.39178 |
+| CVE | AOA | buy | 9.33739 |
+| CVE | AOA | reference | 9.33739 |
+| CVE | AOA | sell | 9.33739 |
+| CZK | AOA | buy | 42.24055 |
+| CZK | AOA | reference | 42.24055 |
+| CZK | AOA | sell | 42.24055 |
+| DKK | AOA | buy | 137.4379 |
+| DKK | AOA | reference | 137.4379 |
+| DKK | AOA | sell | 137.4379 |
+| EEK | AOA | buy | 65.65559 |
+| EEK | AOA | reference | 65.65559 |
+| EEK | AOA | sell | 65.65559 |
 
 [Full table on the National Bank of Angola rates page](https://allratestoday.com/central-bank-rates-api/bna/) · Source: [Official rates published by BNA, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bna/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
@@ -302,7 +302,7 @@ curl "https://allratestoday.com/api/v1/central-bank/bna/latest?format=xml&api_ke
 - MCP server: `npx -y @allratestoday/central-bank-mcp` (stdio) or the hosted endpoint `https://allratestoday.com/api/mcp` — tools for official rates, history, cross-bank comparison and publication calendars
 - Already using the general SDK or MCP server? Since 2026-10-01 [`@allratestoday/sdk`](https://www.npmjs.com/package/@allratestoday/sdk) 1.4+ has `officialRates('bna')` and [`@allratestoday/mcp-server`](https://www.npmjs.com/package/@allratestoday/mcp-server) 0.6+ has a `get_official_rates` tool — both return this source's latest table with no key, so you can add it without a second dependency
 - Claude Code plugin (no key): `/plugin marketplace add AllRates-Today/claude-code-plugin` then `/plugin install allratestoday@allratestoday` — bundles both MCP servers plus an `/official-rate bna ...` command
-- Need dated tables or history for an evaluation? Agents can self-issue a trial key with no signup: `POST https://allratestoday.com/api/agent/keys` (send `Content-Type: application/json`) returns a 100-call key valid 7 days; the MCP servers expose it as `request_trial_key`
+- Evaluating? Agents can self-issue a trial key with no signup: `POST https://allratestoday.com/api/agent/keys` (send `Content-Type: application/json`) returns a 100-call key valid 7 days that covers the free-plan methods (latest table, pairs); dated tables and history need a [paid plan](https://allratestoday.com/pricing/). The MCP servers expose it as `request_trial_key`
 - Machine-readable site guide: [llms.txt](https://allratestoday.com/llms.txt) · [for-ai-agents](https://allratestoday.com/for-ai-agents/)
 
 ## ⚖️ Published vs derived rates
