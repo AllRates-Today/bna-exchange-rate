@@ -20,6 +20,10 @@
 
 > **Official rate, not mid-market:** every value here is a number National Bank of Angola itself published, fixed once printed and carrying the central bank's own `rate_date` — what filings and audits require. Need the live mid-market rate for pricing or display instead? Use the [mid-market API](https://allratestoday.com/docs/) or [`@allratestoday/sdk`](https://www.npmjs.com/package/@allratestoday/sdk). The two can diverge by several percent.
 
+## 🔑 Get your API key
+
+Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
+
 ## ⚡ Try it without a key
 
 The latest National Bank of Angola table is also served keyless, CORS-open and edge-cached, for evaluation, embeds and AI agents:
@@ -43,79 +47,75 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-19 by National Bank of Angola — 210 rates, first 60 shown. Updated 2026-10-19.</summary>
+<summary>Table as text: published 2026-10-20 by National Bank of Angola — 210 rates, first 60 shown. Updated 2026-10-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | AOA | buy | 248.30515 |
-| AED | AOA | reference | 248.30515 |
-| AED | AOA | sell | 248.30515 |
-| ALL | AOA | buy | 11.31373 |
-| ALL | AOA | reference | 11.31373 |
-| ALL | AOA | sell | 11.31373 |
-| ARS | AOA | buy | 0.60106 |
-| ARS | AOA | reference | 0.60106 |
-| ARS | AOA | sell | 0.60106 |
-| AUD | AOA | buy | 637.00496 |
-| AUD | AOA | reference | 637.00496 |
-| AUD | AOA | sell | 637.00496 |
-| BGN | AOA | buy | 523.29585 |
-| BGN | AOA | reference | 523.29585 |
-| BGN | AOA | sell | 523.29585 |
-| BMD | AOA | buy | 912 |
-| BMD | AOA | reference | 912 |
-| BMD | AOA | sell | 912 |
-| BOB | AOA | buy | 78.0154 |
-| BOB | AOA | reference | 78.0154 |
-| BOB | AOA | sell | 78.0154 |
-| BRL | AOA | buy | 180.36904 |
-| BRL | AOA | reference | 180.36904 |
-| BRL | AOA | sell | 180.36904 |
-| BSD | AOA | buy | 912 |
-| BSD | AOA | reference | 912 |
-| BSD | AOA | sell | 912 |
-| BWP | AOA | buy | 67.8526 |
-| BWP | AOA | reference | 67.8526 |
-| BWP | AOA | sell | 67.8526 |
-| CAD | AOA | buy | 647.86531 |
-| CAD | AOA | reference | 647.86531 |
-| CAD | AOA | sell | 647.86531 |
-| CDF | AOA | buy | 0.39456 |
-| CDF | AOA | reference | 0.39456 |
-| CDF | AOA | sell | 0.39456 |
-| CHF | AOA | buy | 1105.45455 |
-| CHF | AOA | reference | 1105.45455 |
-| CHF | AOA | sell | 1105.45455 |
-| CNY | AOA | buy | 136.64969 |
-| CNY | AOA | reference | 136.64969 |
-| CNY | AOA | sell | 136.64969 |
-| CRC | AOA | buy | 2.03281 |
-| CRC | AOA | reference | 2.03281 |
-| CRC | AOA | sell | 2.03281 |
-| CUP | AOA | buy | 38 |
-| CUP | AOA | reference | 38 |
-| CUP | AOA | sell | 38 |
-| CVE | AOA | buy | 9.33295 |
-| CVE | AOA | reference | 9.33295 |
-| CVE | AOA | sell | 9.33295 |
-| CZK | AOA | buy | 42.04644 |
-| CZK | AOA | reference | 42.04644 |
-| CZK | AOA | sell | 42.04644 |
-| DKK | AOA | buy | 136.9246 |
-| DKK | AOA | reference | 136.9246 |
-| DKK | AOA | sell | 136.9246 |
-| EEK | AOA | buy | 65.41057 |
-| EEK | AOA | reference | 65.41057 |
-| EEK | AOA | sell | 65.41057 |
+| AED | AOA | buy | 248.57742 |
+| AED | AOA | reference | 248.57742 |
+| AED | AOA | sell | 248.57742 |
+| ALL | AOA | buy | 11.35572 |
+| ALL | AOA | reference | 11.35572 |
+| ALL | AOA | sell | 11.35572 |
+| ARS | AOA | buy | 0.59885 |
+| ARS | AOA | reference | 0.59885 |
+| ARS | AOA | sell | 0.59885 |
+| AUD | AOA | buy | 639.04249 |
+| AUD | AOA | reference | 639.04249 |
+| AUD | AOA | sell | 639.04249 |
+| BGN | AOA | buy | 524.35102 |
+| BGN | AOA | reference | 524.35102 |
+| BGN | AOA | sell | 524.35102 |
+| BMD | AOA | buy | 913 |
+| BMD | AOA | reference | 913 |
+| BMD | AOA | sell | 913 |
+| BOB | AOA | buy | 78.03419 |
+| BOB | AOA | reference | 78.03419 |
+| BOB | AOA | sell | 78.03419 |
+| BRL | AOA | buy | 182.10468 |
+| BRL | AOA | reference | 182.10468 |
+| BRL | AOA | sell | 182.10468 |
+| BSD | AOA | buy | 913 |
+| BSD | AOA | reference | 913 |
+| BSD | AOA | sell | 913 |
+| BWP | AOA | buy | 66.12396 |
+| BWP | AOA | reference | 66.12396 |
+| BWP | AOA | sell | 66.12396 |
+| CAD | AOA | buy | 649.72958 |
+| CAD | AOA | reference | 649.72958 |
+| CAD | AOA | sell | 649.72958 |
+| CDF | AOA | buy | 0.39515 |
+| CDF | AOA | reference | 0.39515 |
+| CDF | AOA | sell | 0.39515 |
+| CHF | AOA | buy | 1107.4721 |
+| CHF | AOA | reference | 1107.4721 |
+| CHF | AOA | sell | 1107.4721 |
+| CNY | AOA | buy | 136.77083 |
+| CNY | AOA | reference | 136.77083 |
+| CNY | AOA | sell | 136.77083 |
+| CRC | AOA | buy | 2.02488 |
+| CRC | AOA | reference | 2.02488 |
+| CRC | AOA | sell | 2.02488 |
+| CUP | AOA | buy | 38.04167 |
+| CUP | AOA | reference | 38.04167 |
+| CUP | AOA | sell | 38.04167 |
+| CVE | AOA | buy | 9.34446 |
+| CVE | AOA | reference | 9.34446 |
+| CVE | AOA | sell | 9.34446 |
+| CZK | AOA | buy | 42.20111 |
+| CZK | AOA | reference | 42.20111 |
+| CZK | AOA | sell | 42.20111 |
+| DKK | AOA | buy | 137.20658 |
+| DKK | AOA | reference | 137.20658 |
+| DKK | AOA | sell | 137.20658 |
+| EEK | AOA | buy | 65.54247 |
+| EEK | AOA | reference | 65.54247 |
+| EEK | AOA | sell | 65.54247 |
 
 </details>
 
 [Full table on the National Bank of Angola rates page](https://allratestoday.com/central-bank-rates-api/bna/) · Source: [Official rates published by BNA, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bna/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
-
-## 🔑 Get your API key
-
-Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
 
 ## 📦 Installation
 
