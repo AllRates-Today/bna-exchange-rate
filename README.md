@@ -47,70 +47,70 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-20 by National Bank of Angola — 210 rates, first 60 shown. Updated 2026-10-20.</summary>
+<summary>Table as text: published 2026-10-20 by National Bank of Angola — 210 rates, first 60 shown. Updated 2026-10-21.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | AOA | buy | 248.57742 |
 | AED | AOA | reference | 248.57742 |
 | AED | AOA | sell | 248.57742 |
-| ALL | AOA | buy | 11.35572 |
-| ALL | AOA | reference | 11.35572 |
-| ALL | AOA | sell | 11.35572 |
-| ARS | AOA | buy | 0.59885 |
-| ARS | AOA | reference | 0.59885 |
-| ARS | AOA | sell | 0.59885 |
-| AUD | AOA | buy | 639.04249 |
-| AUD | AOA | reference | 639.04249 |
-| AUD | AOA | sell | 639.04249 |
-| BGN | AOA | buy | 524.35102 |
-| BGN | AOA | reference | 524.35102 |
-| BGN | AOA | sell | 524.35102 |
+| ALL | AOA | buy | 11.37411 |
+| ALL | AOA | reference | 11.37411 |
+| ALL | AOA | sell | 11.37411 |
+| ARS | AOA | buy | 0.59874 |
+| ARS | AOA | reference | 0.59874 |
+| ARS | AOA | sell | 0.59874 |
+| AUD | AOA | buy | 639.93832 |
+| AUD | AOA | reference | 639.93832 |
+| AUD | AOA | sell | 639.93832 |
+| BGN | AOA | buy | 524.92382 |
+| BGN | AOA | reference | 524.92382 |
+| BGN | AOA | sell | 524.92382 |
 | BMD | AOA | buy | 913 |
 | BMD | AOA | reference | 913 |
 | BMD | AOA | sell | 913 |
 | BOB | AOA | buy | 78.03419 |
 | BOB | AOA | reference | 78.03419 |
 | BOB | AOA | sell | 78.03419 |
-| BRL | AOA | buy | 182.10468 |
-| BRL | AOA | reference | 182.10468 |
-| BRL | AOA | sell | 182.10468 |
+| BRL | AOA | buy | 182.1301 |
+| BRL | AOA | reference | 182.1301 |
+| BRL | AOA | sell | 182.1301 |
 | BSD | AOA | buy | 913 |
 | BSD | AOA | reference | 913 |
 | BSD | AOA | sell | 913 |
 | BWP | AOA | buy | 66.12396 |
 | BWP | AOA | reference | 66.12396 |
 | BWP | AOA | sell | 66.12396 |
-| CAD | AOA | buy | 649.72958 |
-| CAD | AOA | reference | 649.72958 |
-| CAD | AOA | sell | 649.72958 |
+| CAD | AOA | buy | 649.86832 |
+| CAD | AOA | reference | 649.86832 |
+| CAD | AOA | sell | 649.86832 |
 | CDF | AOA | buy | 0.39515 |
 | CDF | AOA | reference | 0.39515 |
 | CDF | AOA | sell | 0.39515 |
-| CHF | AOA | buy | 1107.4721 |
-| CHF | AOA | reference | 1107.4721 |
-| CHF | AOA | sell | 1107.4721 |
-| CNY | AOA | buy | 136.77083 |
-| CNY | AOA | reference | 136.77083 |
-| CNY | AOA | sell | 136.77083 |
+| CHF | AOA | buy | 1106.13036 |
+| CHF | AOA | reference | 1106.13036 |
+| CHF | AOA | sell | 1106.13036 |
+| CNY | AOA | buy | 136.72986 |
+| CNY | AOA | reference | 136.72986 |
+| CNY | AOA | sell | 136.72986 |
 | CRC | AOA | buy | 2.02488 |
 | CRC | AOA | reference | 2.02488 |
 | CRC | AOA | sell | 2.02488 |
 | CUP | AOA | buy | 38.04167 |
 | CUP | AOA | reference | 38.04167 |
 | CUP | AOA | sell | 38.04167 |
-| CVE | AOA | buy | 9.34446 |
-| CVE | AOA | reference | 9.34446 |
-| CVE | AOA | sell | 9.34446 |
-| CZK | AOA | buy | 42.20111 |
-| CZK | AOA | reference | 42.20111 |
-| CZK | AOA | sell | 42.20111 |
-| DKK | AOA | buy | 137.20658 |
-| DKK | AOA | reference | 137.20658 |
-| DKK | AOA | sell | 137.20658 |
-| EEK | AOA | buy | 65.54247 |
-| EEK | AOA | reference | 65.54247 |
-| EEK | AOA | sell | 65.54247 |
+| CVE | AOA | buy | 9.34936 |
+| CVE | AOA | reference | 9.34936 |
+| CVE | AOA | sell | 9.34936 |
+| CZK | AOA | buy | 42.25189 |
+| CZK | AOA | reference | 42.25189 |
+| CZK | AOA | sell | 42.25189 |
+| DKK | AOA | buy | 137.3552 |
+| DKK | AOA | reference | 137.3552 |
+| DKK | AOA | sell | 137.3552 |
+| EEK | AOA | buy | 65.61784 |
+| EEK | AOA | reference | 65.61784 |
+| EEK | AOA | sell | 65.61784 |
 
 </details>
 
